@@ -13,6 +13,6 @@ class PatientDashboardController extends Controller
      */
     public function index()
     {
-        return view('content.pages.patient'); // Make sure the view name matches your Blade file
+        return view('content.pages.pages-page2'); // Make sure the view name matches your Blade file
     }
 }

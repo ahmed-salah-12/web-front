@@ -1,7 +1,7 @@
 <!-- Footer: Start -->
 <footer class="landing-footer bg-body footer-text">
   <div class="footer-top position-relative overflow-hidden z-1">
-    <img src="{{asset('assets/img/front-pages/backgrounds/footer-bg-'.$configData['style'].'.png')}}" alt="footer bg" class="footer-bg banner-bg-img z-n1" data-app-light-img="front-pages/backgrounds/footer-bg-light.png" data-app-dark-img="front-pages/backgrounds/footer-bg-dark.png" />
+    <img src="https://th.bing.com/th/id/OIP.LRCfRJp6kK3vV5EFSJPGCAHaEK?rs=1&pid=ImgDetMain" alt="footer bg" class="footer-bg banner-bg-img z-n1" />
     <div class="container">
       <div class="row gx-0 gy-6 g-lg-10">
         <div class="col-lg-5">

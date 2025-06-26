@@ -1,9 +1,10 @@
 <?php
 // Variables
 return [
-  "creatorName" => "Pixinvent",
+  "creatorName" => "Lifeline
+  ",
   "creatorUrl" => "https://pixinvent.com",
-  "templateName" => "Vuexy",
+  "templateName" => "Lifeline",
   "templateSuffix" => "Bootstrap Admin Template",
   "templateVersion" => "2.0.0",
   "templateFree" => false,
@@ -19,7 +20,7 @@ return [
   "changelog" => "https://demos.pixinvent.com/vuexy/changelog.html",
   "repository" => "https://github.com/pixinvent/vuexy-html-admin-template",
   "gitRepo" => "pixinvent",
-  "gitRepoAccess" => "vuexy-html-admin-template",
+  "gitRepoAccess" => "vLifeline",
   "githubFreeUrl" => "https://tools.pixinvent.com/github/github-access",
   "facebookUrl" => "https://www.facebook.com/pixinvents/",
   "twitterUrl" => "https://twitter.com/pixinvents",

@@ -51,7 +51,8 @@ $customizerHidden = 'customizer-hide';
           <h4 class="mb-1">LifeLine 🚀</h4>
           <p class="mb-6">Make your app management easy and fun!</p>
 
-          <form id="formAuthentication" class="mb-6" action="{{url('/')}}" method="GET">
+          <form id="formAuthentication" class="mb-6" action="{{ route('register') }}" method="POST">
+            @csrf
             <div class="mb-6">
               <label for="username" class="form-label">Username</label>
               <input type="text" class="form-control" id="username" name="username" placeholder="Enter your username" autofocus>
@@ -59,6 +60,10 @@ $customizerHidden = 'customizer-hide';
             <div class="mb-6">
               <label for="email" class="form-label">Email</label>
               <input type="text" class="form-control" id="email" name="email" placeholder="Enter your email">
+            </div>
+            <div class="mb-6">
+              <label for="name" class="form-label">Name</label>
+              <input type="text" class="form-control" id="name" name="name" placeholder="Enter your full name">
             </div>
             <div class="mb-6 form-password-toggle">
               <label class="form-label" for="password">Password</label>
